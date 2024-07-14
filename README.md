@@ -1,4 +1,4 @@
-# Project BMArt Database
+# Project BMart Database
 
 ## Setup
 
