@@ -8,27 +8,5 @@
    cd your-repository
 
    
-+-------------+       +-------------+       +-------------+       +-------------+
-|   Products  |       |   Customers |       |    Dates    |       |    Stores   |
-+-------------+       +-------------+       +-------------+       +-------------+
-| product_id  |       | customer_id |       |    date_id  |       |   store_id  |
-| name        |       | first_name  |       |    date     |       |   name      |
-| category    |       | last_name   |       | day_of_week |       |   location  |
-| price       |       | email       |       |  month      |       |             |
-|             |       |             |       |  quarter    |       |             |
-|             |       |             |       |   year      |       |             |
-+-------------+       +-------------+       +-------------+       +-------------+
-       |                      |                     |                      |
-       +----------------------+---------------------+----------------------+
-                                   |
-                              +------------+
-                              |    Sales    |
-                              +------------+
-                              |  sale_id    |
-                              | product_id  |
-                              | customer_id |
-                              |  date_id    |
-                              |  store_id   |
-                              | quantity    |
-                              | total_price |
-                              +------------+
+![Star Schema](https://github.com/user-attachments/assets/6b8b179a-5656-437a-b3ff-ea612103e416)
+
